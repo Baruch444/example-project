@@ -1,0 +1,11 @@
+.ContactUs{
+    display: flex;
+    gap: 20px;
+    height: 100%;
+    align-items: flex-start;
+}
+
+.ContactUs .box {
+    width: 500px;
+}
+
